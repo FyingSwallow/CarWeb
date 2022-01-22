@@ -1,0 +1,35 @@
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\IDAL\bin\Debug\IDAL.dll
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\IDAL\bin\Debug\IDAL.pdb
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\IDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\IDAL\obj\Debug\IDAL.dll
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\IDAL\obj\Debug\IDAL.pdb
+C:\Users\LiCh\Desktop\Car\Car\IDAL\bin\Debug\IDAL.dll
+C:\Users\LiCh\Desktop\Car\Car\IDAL\bin\Debug\IDAL.pdb
+C:\Users\LiCh\Desktop\Car\Car\IDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LiCh\Desktop\Car\Car\IDAL\obj\Debug\IDAL.dll
+C:\Users\LiCh\Desktop\Car\Car\IDAL\obj\Debug\IDAL.pdb
+F:\老师课件资料\2019下学期课件\net\Car2\Car\IDAL\bin\Debug\IDAL.dll
+F:\老师课件资料\2019下学期课件\net\Car2\Car\IDAL\bin\Debug\IDAL.pdb
+F:\老师课件资料\2019下学期课件\net\Car2\Car\IDAL\obj\Debug\ResolveAssemblyReference.cache
+F:\老师课件资料\2019下学期课件\net\Car2\Car\IDAL\obj\Debug\IDAL.dll
+F:\老师课件资料\2019下学期课件\net\Car2\Car\IDAL\obj\Debug\IDAL.pdb
+F:\老师课件资料\2019下学期课件\net\Car3\Car\IDAL\bin\Debug\IDAL.dll
+F:\老师课件资料\2019下学期课件\net\Car3\Car\IDAL\bin\Debug\IDAL.pdb
+F:\老师课件资料\2019下学期课件\net\Car3\Car\IDAL\obj\Debug\ResolveAssemblyReference.cache
+F:\老师课件资料\2019下学期课件\net\Car3\Car\IDAL\obj\Debug\IDAL.dll
+F:\老师课件资料\2019下学期课件\net\Car3\Car\IDAL\obj\Debug\IDAL.pdb
+C:\Users\89432\Desktop\new\Car3\Car\IDAL\bin\Debug\IDAL.dll
+C:\Users\89432\Desktop\new\Car3\Car\IDAL\bin\Debug\IDAL.pdb
+C:\Users\89432\Desktop\new\Car3\Car\IDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\89432\Desktop\new\Car3\Car\IDAL\obj\Debug\IDAL.dll
+C:\Users\89432\Desktop\new\Car3\Car\IDAL\obj\Debug\IDAL.pdb
+C:\Users\89432\Desktop\学习\new\Car3\Car\IDAL\bin\Debug\IDAL.dll
+C:\Users\89432\Desktop\学习\new\Car3\Car\IDAL\bin\Debug\IDAL.pdb
+C:\Users\89432\Desktop\学习\new\Car3\Car\IDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\89432\Desktop\学习\new\Car3\Car\IDAL\obj\Debug\IDAL.dll
+C:\Users\89432\Desktop\学习\new\Car3\Car\IDAL\obj\Debug\IDAL.pdb
+F:\Car\IDAL\bin\Debug\IDAL.dll
+F:\Car\IDAL\bin\Debug\IDAL.pdb
+F:\Car\IDAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Car\IDAL\obj\Debug\IDAL.dll
+F:\Car\IDAL\obj\Debug\IDAL.pdb

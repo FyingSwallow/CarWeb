@@ -1,0 +1,63 @@
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\SQLDAL\bin\Debug\SQLDAL.dll
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\SQLDAL\bin\Debug\SQLDAL.pdb
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\SQLDAL\bin\Debug\DBUtility.dll
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\SQLDAL\bin\Debug\IDAL.dll
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\SQLDAL\bin\Debug\IDAL.pdb
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\SQLDAL\bin\Debug\DBUtility.pdb
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\SQLDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\SQLDAL\obj\Debug\SQLDAL.dll
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\SQLDAL\obj\Debug\SQLDAL.pdb
+C:\Users\LiCh\Desktop\Car\Car\SQLDAL\bin\Debug\SQLDAL.dll
+C:\Users\LiCh\Desktop\Car\Car\SQLDAL\bin\Debug\SQLDAL.pdb
+C:\Users\LiCh\Desktop\Car\Car\SQLDAL\bin\Debug\DBUtility.dll
+C:\Users\LiCh\Desktop\Car\Car\SQLDAL\bin\Debug\IDAL.dll
+C:\Users\LiCh\Desktop\Car\Car\SQLDAL\bin\Debug\IDAL.pdb
+C:\Users\LiCh\Desktop\Car\Car\SQLDAL\bin\Debug\DBUtility.pdb
+C:\Users\LiCh\Desktop\Car\Car\SQLDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LiCh\Desktop\Car\Car\SQLDAL\obj\Debug\SQLDAL.dll
+C:\Users\LiCh\Desktop\Car\Car\SQLDAL\obj\Debug\SQLDAL.pdb
+F:\老师课件资料\2019下学期课件\net\Car2\Car\SQLDAL\bin\Debug\SQLDAL.dll
+F:\老师课件资料\2019下学期课件\net\Car2\Car\SQLDAL\bin\Debug\SQLDAL.pdb
+F:\老师课件资料\2019下学期课件\net\Car2\Car\SQLDAL\bin\Debug\DBUtility.dll
+F:\老师课件资料\2019下学期课件\net\Car2\Car\SQLDAL\bin\Debug\IDAL.dll
+F:\老师课件资料\2019下学期课件\net\Car2\Car\SQLDAL\bin\Debug\IDAL.pdb
+F:\老师课件资料\2019下学期课件\net\Car2\Car\SQLDAL\bin\Debug\DBUtility.pdb
+F:\老师课件资料\2019下学期课件\net\Car2\Car\SQLDAL\obj\Debug\ResolveAssemblyReference.cache
+F:\老师课件资料\2019下学期课件\net\Car2\Car\SQLDAL\obj\Debug\SQLDAL.dll
+F:\老师课件资料\2019下学期课件\net\Car2\Car\SQLDAL\obj\Debug\SQLDAL.pdb
+F:\老师课件资料\2019下学期课件\net\Car3\Car\SQLDAL\bin\Debug\SQLDAL.dll
+F:\老师课件资料\2019下学期课件\net\Car3\Car\SQLDAL\bin\Debug\SQLDAL.pdb
+F:\老师课件资料\2019下学期课件\net\Car3\Car\SQLDAL\bin\Debug\DBUtility.dll
+F:\老师课件资料\2019下学期课件\net\Car3\Car\SQLDAL\bin\Debug\IDAL.dll
+F:\老师课件资料\2019下学期课件\net\Car3\Car\SQLDAL\bin\Debug\IDAL.pdb
+F:\老师课件资料\2019下学期课件\net\Car3\Car\SQLDAL\bin\Debug\DBUtility.pdb
+F:\老师课件资料\2019下学期课件\net\Car3\Car\SQLDAL\obj\Debug\ResolveAssemblyReference.cache
+F:\老师课件资料\2019下学期课件\net\Car3\Car\SQLDAL\obj\Debug\SQLDAL.dll
+F:\老师课件资料\2019下学期课件\net\Car3\Car\SQLDAL\obj\Debug\SQLDAL.pdb
+C:\Users\89432\Desktop\new\Car3\Car\SQLDAL\bin\Debug\SQLDAL.dll
+C:\Users\89432\Desktop\new\Car3\Car\SQLDAL\bin\Debug\SQLDAL.pdb
+C:\Users\89432\Desktop\new\Car3\Car\SQLDAL\bin\Debug\DBUtility.dll
+C:\Users\89432\Desktop\new\Car3\Car\SQLDAL\bin\Debug\IDAL.dll
+C:\Users\89432\Desktop\new\Car3\Car\SQLDAL\bin\Debug\IDAL.pdb
+C:\Users\89432\Desktop\new\Car3\Car\SQLDAL\bin\Debug\DBUtility.pdb
+C:\Users\89432\Desktop\new\Car3\Car\SQLDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\89432\Desktop\new\Car3\Car\SQLDAL\obj\Debug\SQLDAL.dll
+C:\Users\89432\Desktop\new\Car3\Car\SQLDAL\obj\Debug\SQLDAL.pdb
+C:\Users\89432\Desktop\学习\new\Car3\Car\SQLDAL\bin\Debug\SQLDAL.dll
+C:\Users\89432\Desktop\学习\new\Car3\Car\SQLDAL\bin\Debug\SQLDAL.pdb
+C:\Users\89432\Desktop\学习\new\Car3\Car\SQLDAL\bin\Debug\DBUtility.dll
+C:\Users\89432\Desktop\学习\new\Car3\Car\SQLDAL\bin\Debug\IDAL.dll
+C:\Users\89432\Desktop\学习\new\Car3\Car\SQLDAL\bin\Debug\IDAL.pdb
+C:\Users\89432\Desktop\学习\new\Car3\Car\SQLDAL\bin\Debug\DBUtility.pdb
+C:\Users\89432\Desktop\学习\new\Car3\Car\SQLDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\89432\Desktop\学习\new\Car3\Car\SQLDAL\obj\Debug\SQLDAL.dll
+C:\Users\89432\Desktop\学习\new\Car3\Car\SQLDAL\obj\Debug\SQLDAL.pdb
+F:\Car\SQLDAL\bin\Debug\SQLDAL.dll
+F:\Car\SQLDAL\bin\Debug\SQLDAL.pdb
+F:\Car\SQLDAL\bin\Debug\DBUtility.dll
+F:\Car\SQLDAL\bin\Debug\IDAL.dll
+F:\Car\SQLDAL\bin\Debug\IDAL.pdb
+F:\Car\SQLDAL\bin\Debug\DBUtility.pdb
+F:\Car\SQLDAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Car\SQLDAL\obj\Debug\SQLDAL.dll
+F:\Car\SQLDAL\obj\Debug\SQLDAL.pdb

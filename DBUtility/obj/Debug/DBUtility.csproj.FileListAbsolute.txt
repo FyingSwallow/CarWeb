@@ -1,0 +1,35 @@
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\DBUtility\bin\Debug\DBUtility.dll
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\DBUtility\bin\Debug\DBUtility.pdb
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\DBUtility\obj\Debug\DBUtility.dll
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\DBUtility\obj\Debug\DBUtility.pdb
+C:\Users\LiCh\Desktop\Car\Car\DBUtility\bin\Debug\DBUtility.dll
+C:\Users\LiCh\Desktop\Car\Car\DBUtility\bin\Debug\DBUtility.pdb
+C:\Users\LiCh\Desktop\Car\Car\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LiCh\Desktop\Car\Car\DBUtility\obj\Debug\DBUtility.dll
+C:\Users\LiCh\Desktop\Car\Car\DBUtility\obj\Debug\DBUtility.pdb
+F:\老师课件资料\2019下学期课件\net\Car2\Car\DBUtility\bin\Debug\DBUtility.dll
+F:\老师课件资料\2019下学期课件\net\Car2\Car\DBUtility\bin\Debug\DBUtility.pdb
+F:\老师课件资料\2019下学期课件\net\Car2\Car\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+F:\老师课件资料\2019下学期课件\net\Car2\Car\DBUtility\obj\Debug\DBUtility.dll
+F:\老师课件资料\2019下学期课件\net\Car2\Car\DBUtility\obj\Debug\DBUtility.pdb
+F:\老师课件资料\2019下学期课件\net\Car3\Car\DBUtility\bin\Debug\DBUtility.dll
+F:\老师课件资料\2019下学期课件\net\Car3\Car\DBUtility\bin\Debug\DBUtility.pdb
+F:\老师课件资料\2019下学期课件\net\Car3\Car\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+F:\老师课件资料\2019下学期课件\net\Car3\Car\DBUtility\obj\Debug\DBUtility.dll
+F:\老师课件资料\2019下学期课件\net\Car3\Car\DBUtility\obj\Debug\DBUtility.pdb
+C:\Users\89432\Desktop\new\Car3\Car\DBUtility\bin\Debug\DBUtility.dll
+C:\Users\89432\Desktop\new\Car3\Car\DBUtility\bin\Debug\DBUtility.pdb
+C:\Users\89432\Desktop\new\Car3\Car\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\89432\Desktop\new\Car3\Car\DBUtility\obj\Debug\DBUtility.dll
+C:\Users\89432\Desktop\new\Car3\Car\DBUtility\obj\Debug\DBUtility.pdb
+C:\Users\89432\Desktop\学习\new\Car3\Car\DBUtility\bin\Debug\DBUtility.dll
+C:\Users\89432\Desktop\学习\new\Car3\Car\DBUtility\bin\Debug\DBUtility.pdb
+C:\Users\89432\Desktop\学习\new\Car3\Car\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\89432\Desktop\学习\new\Car3\Car\DBUtility\obj\Debug\DBUtility.dll
+C:\Users\89432\Desktop\学习\new\Car3\Car\DBUtility\obj\Debug\DBUtility.pdb
+F:\Car\DBUtility\bin\Debug\DBUtility.dll
+F:\Car\DBUtility\bin\Debug\DBUtility.pdb
+F:\Car\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+F:\Car\DBUtility\obj\Debug\DBUtility.dll
+F:\Car\DBUtility\obj\Debug\DBUtility.pdb

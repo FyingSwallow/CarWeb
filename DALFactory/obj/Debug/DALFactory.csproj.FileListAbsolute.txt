@@ -1,0 +1,49 @@
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\DALFactory\bin\Debug\DALFactory.dll
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\DALFactory\bin\Debug\DALFactory.pdb
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\DALFactory\bin\Debug\IDAL.dll
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\DALFactory\bin\Debug\IDAL.pdb
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\DALFactory\obj\Debug\DALFactory.dll
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\DALFactory\obj\Debug\DALFactory.pdb
+C:\Users\LiCh\Desktop\Car\Car\DALFactory\bin\Debug\DALFactory.dll
+C:\Users\LiCh\Desktop\Car\Car\DALFactory\bin\Debug\DALFactory.pdb
+C:\Users\LiCh\Desktop\Car\Car\DALFactory\bin\Debug\IDAL.dll
+C:\Users\LiCh\Desktop\Car\Car\DALFactory\bin\Debug\IDAL.pdb
+C:\Users\LiCh\Desktop\Car\Car\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LiCh\Desktop\Car\Car\DALFactory\obj\Debug\DALFactory.dll
+C:\Users\LiCh\Desktop\Car\Car\DALFactory\obj\Debug\DALFactory.pdb
+F:\老师课件资料\2019下学期课件\net\Car2\Car\DALFactory\bin\Debug\DALFactory.dll
+F:\老师课件资料\2019下学期课件\net\Car2\Car\DALFactory\bin\Debug\DALFactory.pdb
+F:\老师课件资料\2019下学期课件\net\Car2\Car\DALFactory\bin\Debug\IDAL.dll
+F:\老师课件资料\2019下学期课件\net\Car2\Car\DALFactory\bin\Debug\IDAL.pdb
+F:\老师课件资料\2019下学期课件\net\Car2\Car\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+F:\老师课件资料\2019下学期课件\net\Car2\Car\DALFactory\obj\Debug\DALFactory.dll
+F:\老师课件资料\2019下学期课件\net\Car2\Car\DALFactory\obj\Debug\DALFactory.pdb
+F:\老师课件资料\2019下学期课件\net\Car3\Car\DALFactory\bin\Debug\DALFactory.dll
+F:\老师课件资料\2019下学期课件\net\Car3\Car\DALFactory\bin\Debug\DALFactory.pdb
+F:\老师课件资料\2019下学期课件\net\Car3\Car\DALFactory\bin\Debug\IDAL.dll
+F:\老师课件资料\2019下学期课件\net\Car3\Car\DALFactory\bin\Debug\IDAL.pdb
+F:\老师课件资料\2019下学期课件\net\Car3\Car\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+F:\老师课件资料\2019下学期课件\net\Car3\Car\DALFactory\obj\Debug\DALFactory.dll
+F:\老师课件资料\2019下学期课件\net\Car3\Car\DALFactory\obj\Debug\DALFactory.pdb
+C:\Users\89432\Desktop\new\Car3\Car\DALFactory\bin\Debug\DALFactory.dll
+C:\Users\89432\Desktop\new\Car3\Car\DALFactory\bin\Debug\DALFactory.pdb
+C:\Users\89432\Desktop\new\Car3\Car\DALFactory\bin\Debug\IDAL.dll
+C:\Users\89432\Desktop\new\Car3\Car\DALFactory\bin\Debug\IDAL.pdb
+C:\Users\89432\Desktop\new\Car3\Car\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\89432\Desktop\new\Car3\Car\DALFactory\obj\Debug\DALFactory.dll
+C:\Users\89432\Desktop\new\Car3\Car\DALFactory\obj\Debug\DALFactory.pdb
+C:\Users\89432\Desktop\学习\new\Car3\Car\DALFactory\bin\Debug\DALFactory.dll
+C:\Users\89432\Desktop\学习\new\Car3\Car\DALFactory\bin\Debug\DALFactory.pdb
+C:\Users\89432\Desktop\学习\new\Car3\Car\DALFactory\bin\Debug\IDAL.dll
+C:\Users\89432\Desktop\学习\new\Car3\Car\DALFactory\bin\Debug\IDAL.pdb
+C:\Users\89432\Desktop\学习\new\Car3\Car\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\89432\Desktop\学习\new\Car3\Car\DALFactory\obj\Debug\DALFactory.dll
+C:\Users\89432\Desktop\学习\new\Car3\Car\DALFactory\obj\Debug\DALFactory.pdb
+F:\Car\DALFactory\bin\Debug\DALFactory.dll
+F:\Car\DALFactory\bin\Debug\DALFactory.pdb
+F:\Car\DALFactory\bin\Debug\IDAL.dll
+F:\Car\DALFactory\bin\Debug\IDAL.pdb
+F:\Car\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+F:\Car\DALFactory\obj\Debug\DALFactory.dll
+F:\Car\DALFactory\obj\Debug\DALFactory.pdb
