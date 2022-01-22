@@ -1,0 +1,63 @@
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\BLL\bin\Debug\BLL.dll
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\BLL\bin\Debug\BLL.pdb
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\BLL\bin\Debug\DALFactory.dll
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\BLL\bin\Debug\IDAL.dll
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\BLL\bin\Debug\IDAL.pdb
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\BLL\bin\Debug\DALFactory.pdb
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\BLL\obj\Debug\BLL.dll
+C:\Users\89432\Documents\Visual Studio 2008\Projects\Car\BLL\obj\Debug\BLL.pdb
+C:\Users\LiCh\Desktop\Car\Car\BLL\bin\Debug\BLL.dll
+C:\Users\LiCh\Desktop\Car\Car\BLL\bin\Debug\BLL.pdb
+C:\Users\LiCh\Desktop\Car\Car\BLL\bin\Debug\DALFactory.dll
+C:\Users\LiCh\Desktop\Car\Car\BLL\bin\Debug\IDAL.dll
+C:\Users\LiCh\Desktop\Car\Car\BLL\bin\Debug\IDAL.pdb
+C:\Users\LiCh\Desktop\Car\Car\BLL\bin\Debug\DALFactory.pdb
+C:\Users\LiCh\Desktop\Car\Car\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LiCh\Desktop\Car\Car\BLL\obj\Debug\BLL.dll
+C:\Users\LiCh\Desktop\Car\Car\BLL\obj\Debug\BLL.pdb
+F:\老师课件资料\2019下学期课件\net\Car2\Car\BLL\bin\Debug\BLL.dll
+F:\老师课件资料\2019下学期课件\net\Car2\Car\BLL\bin\Debug\BLL.pdb
+F:\老师课件资料\2019下学期课件\net\Car2\Car\BLL\bin\Debug\DALFactory.dll
+F:\老师课件资料\2019下学期课件\net\Car2\Car\BLL\bin\Debug\IDAL.dll
+F:\老师课件资料\2019下学期课件\net\Car2\Car\BLL\bin\Debug\IDAL.pdb
+F:\老师课件资料\2019下学期课件\net\Car2\Car\BLL\bin\Debug\DALFactory.pdb
+F:\老师课件资料\2019下学期课件\net\Car2\Car\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\老师课件资料\2019下学期课件\net\Car2\Car\BLL\obj\Debug\BLL.dll
+F:\老师课件资料\2019下学期课件\net\Car2\Car\BLL\obj\Debug\BLL.pdb
+F:\老师课件资料\2019下学期课件\net\Car3\Car\BLL\bin\Debug\BLL.dll
+F:\老师课件资料\2019下学期课件\net\Car3\Car\BLL\bin\Debug\BLL.pdb
+F:\老师课件资料\2019下学期课件\net\Car3\Car\BLL\bin\Debug\DALFactory.dll
+F:\老师课件资料\2019下学期课件\net\Car3\Car\BLL\bin\Debug\IDAL.dll
+F:\老师课件资料\2019下学期课件\net\Car3\Car\BLL\bin\Debug\IDAL.pdb
+F:\老师课件资料\2019下学期课件\net\Car3\Car\BLL\bin\Debug\DALFactory.pdb
+F:\老师课件资料\2019下学期课件\net\Car3\Car\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\老师课件资料\2019下学期课件\net\Car3\Car\BLL\obj\Debug\BLL.dll
+F:\老师课件资料\2019下学期课件\net\Car3\Car\BLL\obj\Debug\BLL.pdb
+C:\Users\89432\Desktop\new\Car3\Car\BLL\bin\Debug\BLL.dll
+C:\Users\89432\Desktop\new\Car3\Car\BLL\bin\Debug\BLL.pdb
+C:\Users\89432\Desktop\new\Car3\Car\BLL\bin\Debug\DALFactory.dll
+C:\Users\89432\Desktop\new\Car3\Car\BLL\bin\Debug\IDAL.dll
+C:\Users\89432\Desktop\new\Car3\Car\BLL\bin\Debug\IDAL.pdb
+C:\Users\89432\Desktop\new\Car3\Car\BLL\bin\Debug\DALFactory.pdb
+C:\Users\89432\Desktop\new\Car3\Car\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\89432\Desktop\new\Car3\Car\BLL\obj\Debug\BLL.dll
+C:\Users\89432\Desktop\new\Car3\Car\BLL\obj\Debug\BLL.pdb
+C:\Users\89432\Desktop\学习\new\Car3\Car\BLL\bin\Debug\BLL.dll
+C:\Users\89432\Desktop\学习\new\Car3\Car\BLL\bin\Debug\BLL.pdb
+C:\Users\89432\Desktop\学习\new\Car3\Car\BLL\bin\Debug\DALFactory.dll
+C:\Users\89432\Desktop\学习\new\Car3\Car\BLL\bin\Debug\IDAL.dll
+C:\Users\89432\Desktop\学习\new\Car3\Car\BLL\bin\Debug\IDAL.pdb
+C:\Users\89432\Desktop\学习\new\Car3\Car\BLL\bin\Debug\DALFactory.pdb
+C:\Users\89432\Desktop\学习\new\Car3\Car\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\89432\Desktop\学习\new\Car3\Car\BLL\obj\Debug\BLL.dll
+C:\Users\89432\Desktop\学习\new\Car3\Car\BLL\obj\Debug\BLL.pdb
+F:\Car\BLL\bin\Debug\BLL.dll
+F:\Car\BLL\bin\Debug\BLL.pdb
+F:\Car\BLL\bin\Debug\DALFactory.dll
+F:\Car\BLL\bin\Debug\IDAL.dll
+F:\Car\BLL\bin\Debug\IDAL.pdb
+F:\Car\BLL\bin\Debug\DALFactory.pdb
+F:\Car\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\Car\BLL\obj\Debug\BLL.dll
+F:\Car\BLL\obj\Debug\BLL.pdb
